@@ -23,3 +23,6 @@ Thesis belongs to you, degree belongs to you. So the following are your duties.
 1. Pay attention to all the standards, rules, and deadlines.
 2. Before every node, reach out to me during my work hours, leave me enough time to give suggestions, and leave yourself enough time to revise.
 3. Take my advice, unless you can convince me with good reason and sufficient evidence.
+4. Remind me to go to the graduate management system audit, I don't log in every day to check.
+5. Send files by email instead of WeChat.
+6. Reply to any emails and messages I send.
