@@ -1,10 +1,3 @@
 ---
 title: "[1] 曹新伟,洪剑峭,贾琬娇.分析师实地调研与资本市场信息效率——基于股价同步性的研究[J].经济管理,2015,37(08):141-150."
-collection: publications
-citation: ''
----
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
