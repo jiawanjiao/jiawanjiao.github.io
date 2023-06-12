@@ -12,6 +12,14 @@ Wanjiao JIA is an Assistant Professor at the School of Management, Shanghai Univ
 
 My Workstyle
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. I care about my students. They are not the only but the most important part of my job.
+2. But work is only part of my life, my faith and my family are also very important parts of my life. So, I work from 9 a.m. to 5 p.m. on weekdays. I don't work on holidays, including weekends. Holidays are holy, which is different from workdays. I also don't work in the evening, which is family time and for me to relax.
+3. I am your supervisor, not an AI or a machine. It is my job to help you improve the quality of your thesis. Every button in the system that I need to click and every document that I need to sign are proving this. It is not natural for me to click or sign unless your application documents meet the required standards.
+4. I need time, which is at least one week, to read the emails and documents you send me and give useful suggestions. One week is needed because I have a lot of other work to do, including teaching, writing papers and mentoring other students.
 
-
+Your duties
+======
+Thesis belongs to you, degree belongs to you. So the following are your duties.
+1. Pay attention to all the standards, rules, and deadlines.
+2. Before every node, reach out to me during my work hours, leave me enough time to give suggestions, and leave yourself enough time to revise.
+3. Take my advice, unless you can convince me with good reason and sufficient evidence.
