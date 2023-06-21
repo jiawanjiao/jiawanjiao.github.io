@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Graduate Students"
 permalink: # /teaching/2015-spring-teaching-1
 venue: "Shanghai University, School of Management"
 date: Autumn
