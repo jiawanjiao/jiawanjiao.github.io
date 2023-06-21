@@ -2,19 +2,16 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: # /teaching/2015-spring-teaching-1
+venue: "Shanghai University, School of Management"
+date: Autumn
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Econometrics and Accounting Research Methods
 ======
 
-Heading 2
+Academic Norms and Thesis Writing
 ======
 
-Heading 3
-======
